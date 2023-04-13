@@ -1,0 +1,74 @@
+p {
+    Font-size: 30px;
+    Text-align: center;
+    font-family: Noto Sans JP;
+    }
+
+.intro {
+font-size: 50px;
+text-decoration: underline;
+font-weight:bold;
+
+}
+
+.Creamy {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.bicycle {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.cock {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.bald {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.gun {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.suprised {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.unicorn {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.zoom{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.shoutout{
+font-size: 100px;
+font-weight: bold;
+font-family:BlackHanSans;
+
+}
